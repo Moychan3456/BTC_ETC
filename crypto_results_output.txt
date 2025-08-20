@@ -5,21 +5,6 @@
 ➡️ Resampling and running backtest logic...
 ✅ Backtest for BTC/USDT complete.
 ➡️ Generating chart for BTC/USDT...
-C:\Users\lenovo\AppData\Roaming\Python\Python313\site-packages\mplfinance\_arg_validators.py:84: UserWarning: 
-
- =================================================================
-
-   WARNING: YOU ARE PLOTTING SO MUCH DATA THAT IT MAY NOT BE
-            POSSIBLE TO SEE DETAILS (Candles, Ohlc-Bars, Etc.)
-   For more information see:
-   - https://github.com/matplotlib/mplfinance/wiki/Plotting-Too-Much-Data
-
-   TO SILENCE THIS WARNING, set `type='line'` in `mpf.plot()`
-   OR set kwarg `warn_too_much_data=N` where N is an integer
-   LARGER than the number of data points you want to plot.
-
- ================================================================
-  warnings.warn('\n\n ================================================================= '+
 
 --- 📈 Performance for BTC/USDT ---
 ╒════╤══════════╤════════════════╤══════════════════╤═════════════════╤════════════╤═══════════╤════════════════╤════════════════════╕
@@ -29,27 +14,14 @@ C:\Users\lenovo\AppData\Roaming\Python\Python313\site-packages\mplfinance\_arg_v
 ╘════╧══════════╧════════════════╧══════════════════╧═════════════════╧════════════╧═══════════╧════════════════╧════════════════════╛
 
 =======================================================
+
+
       ✅  ANALYZING: ETH/USDT from 2020-02-28 to 2025-08-20
 =======================================================
 ➡️ Downloading historical data for ETH/USDT from ccxt...
 ➡️ Resampling and running backtest logic...
 ✅ Backtest for ETH/USDT complete.
 ➡️ Generating chart for ETH/USDT...
-C:\Users\lenovo\AppData\Roaming\Python\Python313\site-packages\mplfinance\_arg_validators.py:84: UserWarning: 
-
- =================================================================
-
-   WARNING: YOU ARE PLOTTING SO MUCH DATA THAT IT MAY NOT BE
-            POSSIBLE TO SEE DETAILS (Candles, Ohlc-Bars, Etc.)
-   For more information see:
-   - https://github.com/matplotlib/mplfinance/wiki/Plotting-Too-Much-Data
-
-   TO SILENCE THIS WARNING, set `type='line'` in `mpf.plot()`
-   OR set kwarg `warn_too_much_data=N` where N is an integer
-   LARGER than the number of data points you want to plot.
-
- ================================================================
-  warnings.warn('\n\n ================================================================= '+
 
 --- 📈 Performance for ETH/USDT ---
 ╒════╤══════════╤════════════════╤══════════════════╤═════════════════╤════════════╤═══════════╤════════════════╤════════════════════╕
